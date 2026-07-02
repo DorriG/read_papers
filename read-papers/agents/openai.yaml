@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文速读与批量综述"
+  short_description: "系统提取论文背景、核心推导、创新点、局限性、数据集与实验对比"
+  default_prompt: "Use $read-papers to analyze one or more papers and generate structured Markdown reading notes."
